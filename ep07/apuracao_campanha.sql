@@ -1,4 +1,3 @@
-
 WITH tb_venda as (
     SELECT *
 
